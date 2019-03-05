@@ -1,0 +1,33 @@
+body {
+    background: grey;
+}
+
+/* h1 {
+    color: green;
+} */
+
+section h1 {
+    color: green;
+}
+
+.section-header h1{
+    color:blue;
+}
+.sectionone {
+    background-color: pink;
+
+}
+.sectionone p {
+        font-size: 1.5rem;
+}
+
+table{
+    border-spacing: 0 25px;
+    width: 100%
+}
+tbody tr{
+    background-color: white;
+}
+tbody td {
+    padding: 10px;
+}
